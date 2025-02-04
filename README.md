@@ -5,10 +5,10 @@ The Personal Finance Manager is a Java-based application designed to help users 
 Required Packages:
 The Personal Finance Manager is a Java-based application, so it primarily relies on core Java packages. Based on the project files, here are the required Java packages:
 
-java.util.Scanner – Used for user input handling.
-java.io.File – Used for file handling to save transaction data.
-java.io.FileWriter – Used for writing transaction data to a file.
-java.io.BufferedWriter – Used for efficient writing of data to a file.
-java.io.FileReader – Used for reading transaction data from a file.
-java.io.BufferedReader – Used for efficient reading of data from a file.
-java.io.IOException – Handles exceptions related to file operations.
+1.java.util.Scanner – Used for user input handling.
+2.java.io.File – Used for file handling to save transaction data.
+3.java.io.FileWriter – Used for writing transaction data to a file.
+4.java.io.BufferedWriter – Used for efficient writing of data to a file.
+5.java.io.FileReader – Used for reading transaction data from a file.
+6.java.io.BufferedReader – Used for efficient reading of data from a file.
+7.java.io.IOException – Handles exceptions related to file operations.
