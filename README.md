@@ -12,3 +12,5 @@ The Personal Finance Manager is a Java-based application, so it primarily relies
 5.java.io.FileReader – Used for reading transaction data from a file.
 6.java.io.BufferedReader – Used for efficient reading of data from a file.
 7.java.io.IOException – Handles exceptions related to file operations.
+
+This is a Java Project for Personal Finace Management By Vignesh V
